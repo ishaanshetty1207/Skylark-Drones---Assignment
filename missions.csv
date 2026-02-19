@@ -1,0 +1,4 @@
+project_id,client,location,required_skills,required_certs,start_date,end_date,priority,mission_budget_inr,weather_forecast
+PRJ001,Client A,Bangalore,Mapping,DGCA,2026-02-06,2026-02-08,High,10500,Rainy
+PRJ002,Client B,Mumbai,Inspection,"DGCA, Night Ops",2026-02-07,2026-02-09,Urgent,10500,Sunny
+PRJ003,Client C,Bangalore,Thermal,DGCA,2026-02-10,2026-02-12,Standard,10500,Cloudy
